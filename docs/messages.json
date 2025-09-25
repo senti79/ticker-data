@@ -1,1 +1,267 @@
-{ "messages":[{ "type":"user-tip","text":"안녕하세요! 전광판 연결 완료","priority":1 }], "lastUpdated":"2025-01-01T00:00:00.000Z" }
+{
+  "messages": [
+    {
+      "type": "user-tip",
+      "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
+      "textJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": "left"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "안녕하세요! "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": null
+                    }
+                  },
+                  {
+                    "type": "softHighlight",
+                    "attrs": {
+                      "color": "#fcc87e",
+                      "opacity": 0.4,
+                      "height": 40
+                    }
+                  }
+                ],
+                "text": "전광판 연결"
+              },
+              {
+                "type": "text",
+                "text": " 완료"
+              }
+            ]
+          }
+        ]
+      },
+      "content": "<p></p>",
+      "contentJson": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph"
+          }
+        ]
+      },
+      "link": "",
+      "priority": 1,
+      "createdAt": 1758760309227,
+      "mode": "scroll"
+    }
+  ],
+  "categories": [
+    {
+      "id": "user-tip",
+      "icon": "💡",
+      "names": {
+        "ko": "사용자 팁",
+        "ja": "ユーザーヒント",
+        "en": "User Tip",
+        "es": "Consejo",
+        "fr": "Conseil",
+        "de": "Tipp",
+        "zh": "用户提示"
+      }
+    },
+    {
+      "id": "dev-behind",
+      "icon": "🔧",
+      "names": {
+        "ko": "개발비하인드",
+        "ja": "開発裏話",
+        "en": "Dev Behind",
+        "es": "Detrás",
+        "fr": "Coulisses",
+        "de": "Hinter den Kulissen",
+        "zh": "开发幕后"
+      }
+    },
+    {
+      "id": "challenge",
+      "icon": "🏆",
+      "names": {
+        "ko": "도전과제",
+        "ja": "チャレンジ",
+        "en": "Challenge",
+        "es": "Desafío",
+        "fr": "Défi",
+        "de": "Herausforderung",
+        "zh": "挑战"
+      }
+    },
+    {
+      "id": "fun-fact",
+      "icon": "🎨",
+      "names": {
+        "ko": "재미있는 사실",
+        "ja": "豆知識",
+        "en": "Fun Fact",
+        "es": "Dato",
+        "fr": "Fait amusant",
+        "de": "Fun Fact",
+        "zh": "有趣的事"
+      }
+    },
+    {
+      "id": "promotion",
+      "icon": "🎁",
+      "names": {
+        "ko": "프로모션",
+        "ja": "プロモ",
+        "en": "Promotion",
+        "es": "Promoción",
+        "fr": "Promotion",
+        "de": "Angebot",
+        "zh": "促销"
+      }
+    }
+  ],
+  "i18n": {
+    "ko": [
+      {
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
+        "textJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "안녕하세요! "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": null
+                      }
+                    },
+                    {
+                      "type": "softHighlight",
+                      "attrs": {
+                        "color": "#fcc87e",
+                        "opacity": 0.4,
+                        "height": 40
+                      }
+                    }
+                  ],
+                  "text": "전광판 연결"
+                },
+                {
+                  "type": "text",
+                  "text": " 완료"
+                }
+              ]
+            }
+          ]
+        },
+        "content": "<p></p>",
+        "contentJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph"
+            }
+          ]
+        },
+        "link": "",
+        "priority": 1,
+        "createdAt": 1758760322033,
+        "mode": "scroll"
+      }
+    ],
+    "ja": [],
+    "en": [
+      {
+        "type": "user-tip",
+        "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
+        "textJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "attrs": {
+                "textAlign": "left"
+              },
+              "content": [
+                {
+                  "type": "text",
+                  "text": "안녕하세요! "
+                },
+                {
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "textStyle",
+                      "attrs": {
+                        "color": null
+                      }
+                    },
+                    {
+                      "type": "softHighlight",
+                      "attrs": {
+                        "color": "#fcc87e",
+                        "opacity": 0.4,
+                        "height": 40
+                      }
+                    }
+                  ],
+                  "text": "전광판 연결"
+                },
+                {
+                  "type": "text",
+                  "text": " 완료"
+                }
+              ]
+            }
+          ]
+        },
+        "content": "<p></p>",
+        "contentJson": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph"
+            }
+          ]
+        },
+        "link": "",
+        "priority": 1,
+        "createdAt": 1758760309227,
+        "mode": "scroll"
+      }
+    ],
+    "es": [],
+    "fr": [],
+    "de": [],
+    "zh": []
+  },
+  "settings": {
+    "speed": 20,
+    "displayMode": "scroll",
+    "exposureSec": 20
+  },
+  "lastUpdated": "2025-09-25T00:32:07.299Z",
+  "meta": {
+    "updatedAt": "2025-09-25T00:32:07.299Z",
+    "updatedBy": "senti79@gmail.com",
+    "description": "BOMS 앱 전광판/메시지 데이터(i18n 포함)"
+  }
+}
