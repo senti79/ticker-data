@@ -1,64 +1,4 @@
 {
-  "messages": [
-    {
-      "type": "user-tip",
-      "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
-      "textJson": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph",
-            "attrs": {
-              "textAlign": "left"
-            },
-            "content": [
-              {
-                "type": "text",
-                "text": "안녕하세요! "
-              },
-              {
-                "type": "text",
-                "marks": [
-                  {
-                    "type": "textStyle",
-                    "attrs": {
-                      "color": null
-                    }
-                  },
-                  {
-                    "type": "softHighlight",
-                    "attrs": {
-                      "color": "#fcc87e",
-                      "opacity": 0.4,
-                      "height": 40
-                    }
-                  }
-                ],
-                "text": "전광판 연결"
-              },
-              {
-                "type": "text",
-                "text": " 완료"
-              }
-            ]
-          }
-        ]
-      },
-      "content": "<p></p>",
-      "contentJson": {
-        "type": "doc",
-        "content": [
-          {
-            "type": "paragraph"
-          }
-        ]
-      },
-      "link": "",
-      "priority": 1,
-      "createdAt": 1758760309227,
-      "mode": "scroll"
-    }
-  ],
   "categories": [
     {
       "id": "user-tip",
@@ -130,7 +70,7 @@
     "ko": [
       {
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
+        "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 30%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
         "textJson": {
           "type": "doc",
           "content": [
@@ -150,7 +90,7 @@
                     {
                       "type": "textStyle",
                       "attrs": {
-                        "color": null
+                        "color": ""
                       }
                     },
                     {
@@ -158,7 +98,7 @@
                       "attrs": {
                         "color": "#fcc87e",
                         "opacity": 0.4,
-                        "height": 40
+                        "height": 30
                       }
                     }
                   ],
@@ -187,11 +127,10 @@
         "mode": "scroll"
       }
     ],
-    "ja": [],
     "en": [
       {
         "type": "user-tip",
-        "text": "<p style=\"text-align: left;\">안녕하세요! <span><span data-soft-highlight=\"true\" style=\"background-repeat: no-repeat; background-size: 100% 40%; background-position: 0px 85%; background-image: linear-gradient(rgba(252, 200, 126, 0.4), rgba(252, 200, 126, 0.4));\">전광판 연결</span></span> 완료</p>",
+        "text": "<p style=\"text-align: left;\"><span data-underline-styled=\"true\" data-underline-style=\"wavy\" data-underline-color=\"#4a9eff\" data-underline-thickness=\"3px\" style=\"text-decoration: underline 3px wavy rgba(74, 158, 255, 0.6); text-decoration-skip-ink: none; text-underline-offset: 2px;\">hello</span></p>",
         "textJson": {
           "type": "doc",
           "content": [
@@ -203,31 +142,17 @@
               "content": [
                 {
                   "type": "text",
-                  "text": "안녕하세요! "
-                },
-                {
-                  "type": "text",
                   "marks": [
                     {
-                      "type": "textStyle",
+                      "type": "underlineStyled",
                       "attrs": {
-                        "color": null
-                      }
-                    },
-                    {
-                      "type": "softHighlight",
-                      "attrs": {
-                        "color": "#fcc87e",
-                        "opacity": 0.4,
-                        "height": 40
+                        "style": "wavy",
+                        "thickness": "3px",
+                        "color": "#4a9eff"
                       }
                     }
                   ],
-                  "text": "전광판 연결"
-                },
-                {
-                  "type": "text",
-                  "text": " 완료"
+                  "text": "hello"
                 }
               ]
             }
@@ -244,24 +169,22 @@
         },
         "link": "",
         "priority": 1,
-        "createdAt": 1758760309227,
+        "createdAt": 1758764705263,
         "mode": "scroll"
       }
-    ],
-    "es": [],
-    "fr": [],
-    "de": [],
-    "zh": []
+    ]
   },
   "settings": {
     "speed": 20,
     "displayMode": "scroll",
     "exposureSec": 20
   },
-  "lastUpdated": "2025-09-25T00:32:07.299Z",
+  "lastUpdated": "2025-09-25T01:45:06.440Z",
   "meta": {
-    "updatedAt": "2025-09-25T00:32:07.299Z",
+    "updatedAt": "2025-09-25T01:45:06.440Z",
     "updatedBy": "senti79@gmail.com",
-    "description": "BOMS 앱 전광판/메시지 데이터(i18n 포함)"
-  }
+    "commit": null
+  },
+  "version": "1.1.0",
+  "description": "BOMS 앱 전광판/메시지 데이터(i18n 포함)"
 }
