@@ -1,0 +1,12 @@
+{
+  "messages": [
+    { "type": "user-tip", "text": "💡 Consejo: Usa Ctrl + B para negrita y Ctrl + U para subrayado.", "priority": 1, "createdAt": "2025-09-25T00:00:00Z" },
+    { "type": "dev-behind", "text": "🔧 Detrás: El ticker ahora lee datos desde GitHub Pages.", "priority": 2, "createdAt": "2025-09-25T00:10:00Z" },
+    { "type": "challenge", "text": "🏆 Desafío: Escribe notas siete días seguidos para desbloquear una ventaja.", "priority": 3, "createdAt": "2025-09-25T00:20:00Z" }
+  ],
+  "settings": { "speed": 20, "displayMode": "scroll", "exposureSec": 20 },
+  "lastUpdated": "2025-09-25T11:35:00Z",
+  "version": "1.2.0",
+  "description": "Datos del ticker BOMS (es)"
+}
+

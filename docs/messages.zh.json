@@ -1,0 +1,12 @@
+{
+  "messages": [
+    { "type": "user-tip", "text": "💡 提示：使用 Ctrl + B 加粗，Ctrl + U 添加下划线。", "priority": 1, "createdAt": "2025-09-25T00:00:00Z" },
+    { "type": "dev-behind", "text": "🔧 开发幕后：Ticker 现在从 GitHub Pages 读取数据。", "priority": 2, "createdAt": "2025-09-25T00:10:00Z" },
+    { "type": "challenge", "text": "🏆 挑战：连续 7 天写笔记即可解锁特别奖励！", "priority": 3, "createdAt": "2025-09-25T00:20:00Z" }
+  ],
+  "settings": { "speed": 20, "displayMode": "scroll", "exposureSec": 20 },
+  "lastUpdated": "2025-09-25T11:35:00Z",
+  "version": "1.2.0",
+  "description": "BOMS 跑马灯数据 (zh)"
+}
+

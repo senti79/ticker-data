@@ -1,0 +1,12 @@
+{
+  "messages": [
+    { "type": "user-tip", "text": "💡 ヒント: Ctrl+Bで太字、Ctrl+Uで下線を素早く適用できます。", "priority": 1, "createdAt": "2025-09-25T00:00:00Z" },
+    { "type": "dev-behind", "text": "🔧 開発裏話: ティッカーはGitHub Pagesのデータを読み込みます。", "priority": 2, "createdAt": "2025-09-25T00:10:00Z" },
+    { "type": "challenge", "text": "🏆 チャレンジ: 7日連続でメモを書くと特別な特典が解放されます！", "priority": 3, "createdAt": "2025-09-25T00:20:00Z" }
+  ],
+  "settings": { "speed": 20, "displayMode": "scroll", "exposureSec": 20 },
+  "lastUpdated": "2025-09-25T11:35:00Z",
+  "version": "1.2.0",
+  "description": "BOMS ティッカーデータ (ja)"
+}
+
